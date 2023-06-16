@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Station Monitor"
-categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
 ---
 
