@@ -9,3 +9,9 @@ Some test text and a link2:
 
 <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUDCS/webicorder/" target="_blank" rel="noopener noreferrer">AUDCS</a>
 
+
+| Syntax | Description |
+| --- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
