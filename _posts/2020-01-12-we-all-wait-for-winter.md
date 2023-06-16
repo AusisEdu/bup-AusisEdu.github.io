@@ -5,9 +5,7 @@ categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
 ---
 
-Some test text and a link:
-<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUDCS/webicorder/" target="_blank">AUDCS</a>
+Some test text and a link2:
 
-<p>Check out <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>
-
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUDCS/webicorder/" target="_blank" rel="noopener noreferrer">AUDCS</a>
 
