@@ -6,4 +6,4 @@ image: assets/images/1.jpg
 ---
 
 Some test text and a link:
-[AUDCS](https://www.iris.edu/app/station_monitor/#Today/S1-AUDCS/webicorder/)
+[AUDCS](https://www.iris.edu/app/station_monitor/#Today/S1-AUDCS/webicorder/){:target="_blank"}
