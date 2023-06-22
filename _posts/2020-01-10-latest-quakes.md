@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Latest Quakes"
-author: sal
+author: ausis
 categories: [ Jekyll, tutorial ]
 image: assets/images/3.jpg
 ---
