@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Station Status"
-author: AuSIS
+author: ausis
 categories: [ Jekyll, tutorial ]
 image: assets/images/4.jpg
 ---
