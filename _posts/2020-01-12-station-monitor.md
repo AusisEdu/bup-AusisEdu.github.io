@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Station Monitor"
-author: AuSIS
+author: ausis
 image: assets/images/1.jpg
 ---
 
