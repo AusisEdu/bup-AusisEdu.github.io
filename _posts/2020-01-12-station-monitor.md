@@ -5,7 +5,7 @@ author: ausis
 image: assets/images/1.jpg
 ---
 
-### Today's data from all stations in the AuSIS network
+### Today's data from all stations in the AuSIS network provided by IRIS
 
 | Station | | School | 
 | ----------- |---| ----------- | 
